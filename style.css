@@ -46,3 +46,8 @@ textarea{
 
     outline:none;
 }
+
+textarea{
+    resize:none;
+    height:120px;
+}
