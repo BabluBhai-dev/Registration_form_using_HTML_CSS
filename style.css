@@ -51,3 +51,9 @@ textarea{
     resize:none;
     height:120px;
 }
+
+.gender,
+.skills{
+    display:flex;
+    gap:20px;
+}
