@@ -34,3 +34,15 @@ form{
 h2{
     text-align: center;
 }
+
+input,
+select,
+textarea{
+    padding:12px;
+
+    border:1px solid #ccc;
+
+    border-radius:5px;
+
+    outline:none;
+}
