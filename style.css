@@ -70,3 +70,7 @@ button {
 
   border-radius: 5px;
 }
+
+button:hover{
+    background:#0056b3;
+}
