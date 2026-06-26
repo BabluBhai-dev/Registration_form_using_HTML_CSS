@@ -56,7 +56,12 @@ textarea {
 .gender,
 .skills {
   display: flex;
-  gap: 20px;
+  align-items: center;
+  gap:20px;
+}
+
+input[type="radio"],input[type="checkbox"]{
+    margin-right: 8px;
 }
 
 button {
